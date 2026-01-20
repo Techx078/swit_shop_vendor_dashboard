@@ -1,10 +1,9 @@
 import './App.css'
-
+import Product from './Product'
 function App() {
-
   return (
     <>
-     <p>hello</p>
+      <Product />
     </>
   )
 }
